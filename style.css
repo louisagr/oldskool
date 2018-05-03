@@ -1,0 +1,61 @@
+html {
+  background-image:linear-gradient(SeaShell, SeaGreen);
+  background-size: auto;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+.navigation {
+  background-color: SeaShell;
+  border-style: solid;
+  border-radius: 50% 50%;
+  width: 440px;
+  margin-bottom: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  min-width: 200px;
+  min-height: 100px;
+
+}
+img {
+  height: 100px;
+  width: 200px;
+}
+h1 {
+  color: SeaGreen;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+}
+thead {
+  color: Black;
+  text-transform: uppercase;
+}
+th {
+  color: Black;
+}
+table {
+  color: White;
+  height: 450px;
+}
+.Atouts {
+  color: White;
+  text-transform: uppercase;
+}
+.contact {
+  font-family: "Courier New", Courier, monospace;
+  color: Black;
+  text-align: center;
+}
+.cat {
+  color: White;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.sous-titre {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 14px;
+  color: Black;
+}
+.competences {
+  text-align:center;
+}
